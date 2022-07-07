@@ -4,16 +4,15 @@ import pages.about
 import pages.skills
 import pages.projects
 import pages.edu
+import pages.career
 import pages.recommendations
 
 import resources.ast as ast
 
 PAGES = {
-    "About": pages.about,
-    "Education" : pages.edu,
-    "Skills": pages.skills,
-    "Projects": pages.projects,
-    "Recommendations": pages.recommendations
+    "About": pages.about,  
+    "Education": pages.edu,
+    "Career" : pages.projects,
 }
 
 def main():
@@ -29,16 +28,16 @@ def main():
     st.sidebar.title("Hire Me")
     st.sidebar.info(
         """
-        If you are looking to hire a Data Scientist, 
-        [email me](mailto:abhishek.2.gupta@uconn.edu) or reach out 
-        to me on [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-/)
+        If you are looking to hire a Business Developer, 
+        [email me](mailto:Hderek22@icloud.com) or reach out 
+        to me on [LinkedIn](https://www.linkedin.com/in/hderek22)
 """)
     st.sidebar.title("Additional Info")
     st.sidebar.info(
         "This an interactive streamlit app completely created with Python's latest library **streamlit** "
-        "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-/) or "
-        "at [Mail me](mailto:abhishek.2.gupta@uconn.edu) to know more. "
-        "Also check the [source code](https://github.com/alphadatagamma/Streamlit-Resume-App) here. "  
+        "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/hderek22) or "
+        "at [Mail me](mailto:hderek22@icloud.com) to know more. "
+        "Also check the [source code](https://github.com/Hderek22/Streamlit_resume.git) here. "  
 
 )
 

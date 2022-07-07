@@ -4,7 +4,6 @@ import streamlit as st
 def write():
     """Used to write the about page in the app.py file"""
     st.title("Derek Hall")
-    '''st.image('resources/images/me.jpg')'''
     st.markdown(
             """
 "_Focus on the success of your Teammates and amazing things will happen!_"
@@ -34,12 +33,13 @@ Join a team with likeminded 'can do' teammates and build a 4 star business!
 
 -----
 
-#### Built with Streamlit
+#### Streamlit is amazing!
 
 __See my [**page**](https://www.streamlit.io/) for more information and updates.__
 
 **Check out my [**GitHub**](https://github.com/Hderek22/Streamlit_resume.git) for the implementation details of this page.** 
 
+**Reach out to me for any project or a simple discussion on Streamlit.**
 
 
 
