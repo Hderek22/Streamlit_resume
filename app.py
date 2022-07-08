@@ -28,9 +28,10 @@ def main():
     st.sidebar.title("Hire Me")
     st.sidebar.info(
         """
-        If you are looking to hire a Business Developer, 
+        If you are looking to hire a Business Development Expert with tech skills, 
         [email me](mailto:Hderek22@icloud.com) or reach out 
-        to me on [LinkedIn](https://www.linkedin.com/in/hderek22)
+        to me on [LinkedIn](https://www.linkedin.com/in/hderek22)\n
+        I will help your business grow!
 """)
     st.sidebar.title("Additional Info")
     st.sidebar.info(

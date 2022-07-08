@@ -30,15 +30,13 @@ Its safe to say I'm certainly not one to dabble.
 
 ## My Goals
 
-Join a team with likeminded 'can do' teammates and build a 4 star business!
+**Join a team with likeminded 'can do' teammates and build a 4 star business!**
 
 -----
 
-#### Built with Streamlit
+*Built with [**Streamlit**](https://www.streamlit.io/)*
 
-__See my [**page**](https://www.streamlit.io/) for more information and updates.__
-
-**Check out my [**GitHub**](https://github.com/Hderek22/Streamlit_resume.git) for the implementation details of this page.** 
+*Check out my [**GitHub**](https://github.com/Hderek22/Streamlit_resume.git) for the implementation details of this page.* 
 
 
 
