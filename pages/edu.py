@@ -3,7 +3,7 @@ import streamlit as st
 
 def write():
     """Used to write the page in the app.py file"""
-    st.title("Education")
+    st.title("Tech Skills")
     st.image('resources/images/badge.png',width=250)
     st.markdown(
             """

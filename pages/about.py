@@ -7,7 +7,7 @@ def write():
     '''st.image('resources/images/me.jpg')'''
     st.markdown(
             """
-"_Focus on the success of your Teammates and amazing things will happen!_"
+
 
 One thing you should know about me is...I don't dabble. It is simply not in my nature. If I set out to accomplish a goal, I'm all in, end of story.
 

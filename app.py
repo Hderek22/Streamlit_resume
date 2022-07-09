@@ -5,14 +5,14 @@ import pages.skills
 import pages.projects
 import pages.edu
 import pages.career
-import pages.recommendations
 
 import resources.ast as ast
 
 PAGES = {
     "About": pages.about,  
-    "Education": pages.edu,
-    "Career" : pages.projects,
+    "Tech Skills": pages.edu,
+    "Career" : pages.career,
+    "Projects" : pages.projects
 }
 
 def main():
