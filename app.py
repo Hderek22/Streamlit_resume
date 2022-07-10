@@ -1,7 +1,6 @@
 ### Main page for streamlit resume
 import streamlit as st
 import pages.about
-import pages.skills
 import pages.projects
 import pages.edu
 import pages.career
