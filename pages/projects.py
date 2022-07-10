@@ -12,7 +12,7 @@ def write():
 - Connected to Alpaca Finance API's with trading signals based on market movement.
 
 **Blockchain Payment Processing Tool[(Code)](https://github.com/Hderek22/blockchain_payment_processing_tool.git)**
-- Coded a blockchain currency and built a Streamlit app for making payments with the new currency.
+- Created a blockchain currency and built a Streamlit app for making payments with the new currency.
 
 **Crowdsale KaseiCoin[(Code)](https://github.com/Hderek22/CrowdsaleKaseiCoin.git)**
 - Created ab ERC20 token - KasaiCoin
