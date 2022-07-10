@@ -8,6 +8,7 @@ def write():
     st.markdown(
             """
 
+"_Focus on the success of your Teammates and amazing things will happen for you!_"
 
 One thing you should know about me is...I don't dabble. It is simply not in my nature. If I set out to accomplish a goal, I'm all in, end of story.
 
