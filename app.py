@@ -4,8 +4,9 @@ import pages.about
 import pages.projects
 import pages.edu
 import pages.career
-
 import resources.ast as ast
+
+st.set_page_config()
 
 PAGES = {
     "About": pages.about,  
