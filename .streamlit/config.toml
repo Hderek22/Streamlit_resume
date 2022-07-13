@@ -3,7 +3,7 @@
 [theme]
 base="light"
 primaryColor="#1b2aef"
-backgroundColor="#ebf9e9"
-secondaryBackgroundColor="#b2ecf9"
+backgroundColor="#b6e4f3"
+secondaryBackgroundColor="#8DD5F1"
 font = "sans serif"
 textColor = "#E2761" # grey
