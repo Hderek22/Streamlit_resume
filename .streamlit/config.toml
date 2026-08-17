@@ -6,4 +6,4 @@ primaryColor="#1b2aef"
 backgroundColor="#a1ecd6"
 secondaryBackgroundColor="#60dcbf"
 font = "sans serif"
-textColor = "#E2761" # grey
+textColor = "#333333" # grey
