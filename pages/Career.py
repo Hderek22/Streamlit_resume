@@ -11,6 +11,7 @@ st.markdown(
 - Lead total loss (shrink) reduction initiatives across stores, analyzing inventory, sales, and shrink data to identify root causes and drive corrective action.
 - Partner with store leadership and loss prevention teams to design and implement controls, audits, and training that reduce shrink and improve inventory accuracy.
 - Build reporting and analytics tools to track loss trends and measure the impact of loss-prevention initiatives.
+- Design, build, ship and maintain retail management tools for in-store operators, including native iPhone and Android apps.
 - Collaborate cross-functionally on process improvements that protect margin and profitability.
 
 ### Earth Fare Organic Markets

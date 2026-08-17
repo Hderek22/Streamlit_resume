@@ -22,7 +22,7 @@ Its safe to say I'm certainly not one to dabble.
 
 ## Experiences
 
-**Business Development | Loss Prevention | Leadership | Team Building | Finance**
+**Business Development | Leadership | Team Building | Finance**
 
 ## Skills
 
