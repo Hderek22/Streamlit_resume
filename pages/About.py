@@ -22,17 +22,17 @@ Its safe to say I'm certainly not one to dabble.
 
 ## Experiences
 
-**Operations Leadership | Inventory and Shrink Reduction | Data and Automation | Team Building**
+**Retail Inventory Operations | Shrink Reduction | In-Store Technology | Team Leadership**
 
 ## Skills
 
-**Python | SQL | Solidity | Machine Learning | Multi-Agent AI | iPhone and Android Apps | API's | AWS**
+**Inventory Control | Python | SQL | Excel | Tableau | iPhone and Android Apps | P&L and Payroll Management**
 
 [**LinkedIn**](https://www.linkedin.com/in/hderek22) | [**Email**](mailto:hderek22@gmail.com)
 
 ## My Goals
 
-**Join a team of 'can do' people building hard things, and use data and software to make operations run better.**
+**Join a team that wants inventory accurate, shrink low, and store teams equipped with tools that work. Open to remote roles.**
 
 -----
 

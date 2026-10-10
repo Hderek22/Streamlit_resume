@@ -9,11 +9,11 @@ def main():
     st.title("Hire Me")
     st.info(
         """
-        If you are looking to hire an Operations and Inventory Control leader
-        who builds his own software and data tools,
+        If you are hiring a Retail Inventory Operations leader who cuts shrink
+        and inventory and builds his own software and data tools,
         [email me](mailto:hderek22@gmail.com) or reach out
         to me on [LinkedIn](https://www.linkedin.com/in/hderek22)\n
-        I build the tools that cut loss and make operations run tighter.
+        I help retailers keep the right inventory on the shelf and stop losing money on the way there.
 """
     )
     st.title("Additional Info")

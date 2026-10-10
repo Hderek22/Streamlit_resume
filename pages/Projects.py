@@ -11,6 +11,7 @@ Check out more on [**GitHub**](https://github.com/hderek22)
 **Retail Operations Management Suite (2026)**
 - Design, build, ship and maintain retail management tools for in-store operators, including native iPhone and Android apps
 - Own the tools end-to-end, from initial build through ongoing releases and maintenance in production
+- Built to help store teams improve inventory accuracy and cut shrink.
 
 **HERMES – Multi-Agent Assistant (2026)**
 - Built a multi-agent assistant from scratch without relying on existing agent frameworks, as a hands-on learning project
