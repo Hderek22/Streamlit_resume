@@ -22,17 +22,17 @@ Its safe to say I'm certainly not one to dabble.
 
 ## Experiences
 
-**Business Development | Leadership | Team Building | Finance**
+**Operations Leadership | Inventory and Shrink Reduction | Data and Automation | Team Building**
 
 ## Skills
 
-**Python | Solidity | Machine Learning | API's | SQL | AWS**
+**Python | SQL | Solidity | Machine Learning | Multi-Agent AI | iPhone and Android Apps | API's | AWS**
 
 [**LinkedIn**](https://www.linkedin.com/in/hderek22) | [**Email**](mailto:hderek22@gmail.com)
 
 ## My Goals
 
-**Join a team with likeminded 'can do' teammates and build a 4 star business!**
+**Join a team of 'can do' people building hard things, and use data and software to make operations run better.**
 
 -----
 

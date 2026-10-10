@@ -9,10 +9,11 @@ def main():
     st.title("Hire Me")
     st.info(
         """
-        If you are looking to hire a Business Development Expert with tech skills,
+        If you are looking to hire an Operations and Inventory Control leader
+        who builds his own software and data tools,
         [email me](mailto:hderek22@gmail.com) or reach out
         to me on [LinkedIn](https://www.linkedin.com/in/hderek22)\n
-        I will help your business grow!
+        I build the tools that cut loss and make operations run tighter.
 """
     )
     st.title("Additional Info")
