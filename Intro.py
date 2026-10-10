@@ -1,28 +1,28 @@
-### Main page for streamlit resume
+### Entry point for the streamlit resume: sets up the theme and top navigation
 import streamlit as st
 
-st.set_page_config()
+import ui
+
+st.set_page_config(
+    page_title="Derek Hall | Retail Inventory Operations",
+    page_icon="📦",
+    layout="wide",
+)
 
 
 def main():
     """Main function of App"""
-    st.title("Hire Me")
-    st.info(
-        """
-        If you are hiring a Retail Inventory Operations leader who cuts shrink
-        and inventory and builds his own software and data tools,
-        [email me](mailto:hderek22@gmail.com) or reach out
-        to me on [LinkedIn](https://www.linkedin.com/in/hderek22)\n
-        I help retailers keep the right inventory on the shelf and stop losing money on the way there.
-"""
+    ui.setup()
+    nav = st.navigation(
+        [
+            st.Page("app_pages/home.py", title="Home", default=True),
+            st.Page("app_pages/experience.py", title="Experience"),
+            st.Page("app_pages/skills.py", title="Skills"),
+            st.Page("app_pages/projects.py", title="Projects"),
+        ],
+        position="top",
     )
-    st.title("Additional Info")
-    st.info(
-        "This is an interactive Streamlit app built with Python's **streamlit** library. "
-        "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/hderek22) or "
-        "at [mail me](mailto:hderek22@gmail.com) to know more. "
-        "Also check the [source code](https://github.com/Hderek22/Streamlit_resume.git) here. "
-    )
+    nav.run()
 
 
 if __name__ == "__main__":

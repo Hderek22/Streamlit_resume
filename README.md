@@ -3,11 +3,12 @@
 A multipage interactive resume built with [Streamlit](https://streamlit.io/).
 
 ## Pages
-- **Intro** — landing page with contact info
-- **About** — background and skills
-- **Career** — work history
-- **Projects** — selected projects
-- **Tech Skills** — courses and credentials
+- **Home** — headline, impact metrics, summary, and background
+- **Experience** — career timeline
+- **Skills** — skill groups, certifications, and coursework
+- **Projects** — featured builds and earlier work
+
+Resume copy lives in `content.py`; shared styling and HTML helpers live in `ui.py`.
 
 ## Running locally
 
