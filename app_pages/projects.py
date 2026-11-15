@@ -23,7 +23,7 @@ def project_card(p: dict) -> str:
 </div>"""
 
 
-ui.html('<div class="grid k3">' + "".join(project_card(p) for p in c.PROJECTS) + "</div>")
+ui.html('<div class="grid k2">' + "".join(project_card(p) for p in c.PROJECTS) + "</div>")
 
 ui.section("01", "Earlier builds")
 rows = "".join(f"""

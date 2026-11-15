@@ -4,7 +4,7 @@ import streamlit as st
 import ui
 
 st.set_page_config(
-    page_title="Derek Hall | Retail Inventory Operations",
+    page_title="Derek Hall | Retail Operations & Technology",
     page_icon="📦",
     layout="wide",
 )
