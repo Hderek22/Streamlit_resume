@@ -1,8 +1,8 @@
 """All resume copy for the app lives here, so pages only handle layout."""
 
 NAME = "Derek Hall"
-HEADLINE = "Retail Inventory Operations Leader"
-TAGLINE = "Shrink Reduction · In-Store Technology · Analytics"
+HEADLINE = "Retail Operations Leader Who Builds the Tools"
+TAGLINE = "Shrink Reduction · In-Store Apps · AI Agents"
 LOCATION = "Henderson, KY · Open to remote"
 EMAIL = "hderek22@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/hderek22"
@@ -10,12 +10,15 @@ GITHUB = "https://github.com/hderek22"
 SOURCE = "https://github.com/Hderek22/Streamlit_resume"
 
 SUMMARY = (
-    "Retail inventory and operations leader with 30 years in grocery and multi-unit retail. "
-    "Cut regional shrink 0.4% and inventory $1.2M with a truck-to-shelf initiative, then built "
-    "native iPhone and Android tools that helped reduce inventory $3M in four months and "
-    "contributed to $1M+ in shrink reduction across ~30 units. Pairs store-level operating "
-    "experience and financial discipline with hands-on Python, SQL, and Excel analytics, and "
-    "trains store teams to execute new processes and technology."
+    "Retail operations leader with 30 years in grocery and multi-unit retail who builds the "
+    "software his teams use. Cut regional shrink 0.4% and inventory $1.2M with a truck-to-shelf "
+    "initiative, then built mobile web apps for store teams that helped reduce inventory $3M in "
+    "four months and contributed to $1M+ in shrink reduction across ~30 units. Now runs a "
+    "home-built organization of AI agents that turns weekly loss reports into store-level "
+    "analysis and ships app updates as pull requests, and is founding GemGrooves, a music "
+    "platform. Pairs store-level operating experience and financial discipline with hands-on "
+    "Python, TypeScript, SQL, and Excel, and trains store teams to execute new processes and "
+    "technology."
 )
 
 # value, label, context
@@ -44,13 +47,39 @@ EXPERIENCE = [
         "bullets": [
             "Own inventory loss and markdown reduction for ~30 retail units across four states, "
             "partnering with store leadership on controls, audits, and training.",
-            "Designed, built, shipped, and maintain native iPhone and Android tools for in-store "
-            "operators; they contributed to $1M+ in shrink reduction and a $3M inventory decrease "
-            "in four months.",
+            "Designed, built, and maintain a private suite of mobile web apps that store teams "
+            "install on iPhone and Android: a store-walk report that emails findings with photos, "
+            "and Purchase with Purpose, which turns each department's sales forecast into a weekly "
+            "purchase budget and case count for 30 stores, with printable dry-erase sheets. The "
+            "store tools contributed to $1M+ in shrink reduction and a $3M inventory decrease in "
+            "four months.",
+            "Built Argus, an AI assistant that turns the weekly markdown, grind, and inventory "
+            "reports into store-level analysis and now maintains the store apps by opening pull "
+            "requests for review.",
             "Build weekly reporting on ground beef markdown, grind production, and grocery "
             "inventory days-on-hand to find loss drivers by store and day of week.",
         ],
-        "tags": ["~30 units", "$1M+ shrink", "$3M inventory", "iOS + Android"],
+        "tags": ["~30 units", "$1M+ shrink", "$3M inventory", "iPhone + Android web apps",
+                 "AI assistant"],
+    },
+    {
+        "role": "Founder",
+        "company": "GemGrooves",
+        "place": "Remote",
+        "dates": "2023 – Present",
+        "current": True,
+        "bullets": [
+            "Building a music platform where artists record and mix in a browser studio, release "
+            "numbered editions, and are paid automatically on every sale and resale. The "
+            "blockchain does the bookkeeping and stays out of the listener's way.",
+            "Shipped The Studio (multitrack recorder and mixer), minting, the Record Shop with "
+            "30-second previews and shareable pages, and The Lounge for playback; contracts are "
+            "live on a test network ahead of launch.",
+            "Run the company on an organization of AI agents (COO, VP, seven directors) with a "
+            "chain of command, an audit log, and a release workflow that ends in my sign-off; "
+            "laying the legal groundwork (LLC, trademark) for launch.",
+        ],
+        "tags": ["Founder", "React + TypeScript", "Solidity", "AI-run org"],
     },
     {
         "role": "Store Manager",
@@ -127,9 +156,17 @@ SKILLS = [
     },
     {
         "icon": "📱",
-        "title": "In-store technology",
-        "items": ["Native iPhone apps", "Native Android apps", "Process & tech rollouts",
-                  "GitHub"],
+        "title": "Building software",
+        "items": ["Mobile web apps (iPhone + Android)", "React + TypeScript", "Python",
+                  "Serverless functions (Vercel)", "Automated tests & CI", "GitHub pull-request workflow",
+                  "Solidity (test networks)", "Process & tech rollouts"],
+    },
+    {
+        "icon": "🤖",
+        "title": "AI agents",
+        "items": ["Multi-agent systems", "Claude API & tool use", "Agent roles & chain of command",
+                  "Audit logs & approval tiers", "Human-in-the-loop sign-off",
+                  "Agents that ship code by pull request"],
     },
     {
         "icon": "💵",
@@ -162,23 +199,42 @@ COURSEWORK = ["Python", "SQL", "Amazon Web Services", "Machine learning in finan
 
 PROJECTS = [
     {
-        "name": "Retail Operations Management Suite",
+        "name": "HERMES Agent Organization",
+        "year": "2026",
+        "status": "Running 24/7",
+        "desc": "A multi-agent assistant built from scratch in Python with no agent frameworks, "
+                "running around the clock in the cloud and reachable by chat. It runs a company "
+                "of agents (COO, VP, seven directors, and a retail assistant) with a chain of "
+                "command, an append-only audit log, a pause switch, approval tiers, escalations "
+                "to me, and a release workflow that ends in my sign-off. Agents change code only "
+                "through pull requests I review. 230 automated tests.",
+        "stack": ["Python", "Claude API", "Telegram", "Railway", "SQLite"],
+        "link": GITHUB,
+    },
+    {
+        "name": "TLS Tools",
         "year": "2026",
         "status": "In production",
-        "desc": "Native iPhone and Android tools for in-store operators, owned end to end from "
-                "first build through production releases and maintenance. Built to help store "
-                "teams improve inventory accuracy and cut shrink.",
-        "stack": ["iOS", "Android", "Store operations"],
+        "desc": "Private web app suite for store teams, installable on iPhone and Android: a "
+                "store-walk Progression Report that emails photo reports from the server, and "
+                "Purchase with Purpose, which turns a department's forecast into a purchase budget "
+                "and case count for 30 stores, with printable dry-erase sheets. Exact-decimal math, "
+                "dated configuration so past weeks never change, and importers for the source "
+                "workbooks.",
+        "stack": ["React", "TypeScript", "Vercel", "Vitest"],
         "link": None,
     },
     {
-        "name": "HERMES Multi-Agent Assistant",
-        "year": "2026",
-        "status": "Active",
-        "desc": "A multi-agent assistant built from scratch without agent frameworks, with a "
-                "web interface on top of the core agent system.",
-        "stack": ["Python", "Multi-agent AI", "Web UI"],
-        "link": GITHUB,
+        "name": "GemGrooves Music Platform",
+        "year": "2023 –",
+        "status": "Beta",
+        "desc": "Browser studio, minting of numbered editions, a Record Shop with 30-second "
+                "previews and shareable pages, and a Lounge for playback. Artists are paid on-chain "
+                "on every sale and resale; the technology stays invisible to listeners. React and "
+                "TypeScript front end, Solidity contracts with Hardhat tests, Supabase sessions, "
+                "IPFS storage.",
+        "stack": ["React", "TypeScript", "Solidity", "Supabase"],
+        "link": None,
     },
     {
         "name": "Interactive Resume",
@@ -192,13 +248,6 @@ PROJECTS = [
 ]
 
 EARLIER_PROJECTS = [
-    {
-        "name": "GemGrooves Music Platform",
-        "year": "2026",
-        "desc": "Music platform with blockchain under the hood, designed so the tech stays "
-                "invisible to listeners and artists. Built the Studio flow, including minting.",
-        "link": None,
-    },
     {
         "name": "ML Crypto Trading Bot",
         "year": "2022",
