@@ -212,6 +212,21 @@ PROJECTS = [
         "link": GITHUB,
     },
     {
+        "name": "POLIS Procurement Assistant",
+        "year": "2026",
+        "status": "Live",
+        "desc": "An AI reference assistant for North Carolina public purchasing staff. It answers "
+                "only from a fixed set of state-law and local-policy sources, cites the page for "
+                "every answer, and declines to give legal advice. Full-text search over the "
+                "sources, with approval-chart tables transcribed so their grids keep their "
+                "meaning. A 34-question accuracy check grades every answer for required facts, "
+                "citations, and boundaries. Deployed as a web app with invite-only individual "
+                "logins and role-based access to sources. Built with and for a working "
+                "procurement professional. 41 automated tests.",
+        "stack": ["Python", "Claude API", "FastAPI", "SQLite FTS5", "Railway"],
+        "link": None,
+    },
+    {
         "name": "TLS Tools",
         "year": "2026",
         "status": "In production",
