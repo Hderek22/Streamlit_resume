@@ -5,7 +5,7 @@ import ui
 ui.html(f"""
 <div class="hero">
 <div>
-<div class="status"><span class="dot"></span>open to remote roles · {c.LOCATION.split(' · ')[0]}</div>
+<div class="status"><span class="dot"></span>{c.LOCATION.lower()}</div>
 <h1>{c.NAME}</h1>
 <p class="role grad">{c.HEADLINE}</p>
 <p class="tag">&gt; {c.TAGLINE}</p>

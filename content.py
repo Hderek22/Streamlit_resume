@@ -3,7 +3,7 @@
 NAME = "Derek Hall"
 HEADLINE = "Retail Operations Leader Who Builds the Tools"
 TAGLINE = "Shrink Reduction · In-Store Apps · AI Agents"
-LOCATION = "Henderson, KY · Open to remote"
+LOCATION = "Open to remote work"
 EMAIL = "hderek22@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/hderek22"
 GITHUB = "https://github.com/hderek22"
